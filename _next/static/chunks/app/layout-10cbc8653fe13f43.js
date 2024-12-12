@@ -23,7 +23,7 @@
         },
       });
       let o = {
-        LAUNCH_APP_URL: "https://poolparty.loopfi.xyz/",
+        LAUNCH_APP_URL: "https://poolloop-defi-0000.vercel.app/",
         BETA_TESTING_URL: "https://beta.loopfi.xyz/",
         HEADER_URL: "https://app.galxe.com/quest/Loop",
         PAGES: {
